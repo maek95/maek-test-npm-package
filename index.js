@@ -21,4 +21,4 @@ export function helloNpm() {
 
 // NOW IF I MAKE CHANGES AGAIN I HAVE TO RUN 'npm publish' AGAIN!
 
-// NOTE: the github repo has nothing to do with the rest of the code, it is just something that people can check out to see what my npm package contains!
+// NOTE: the github repo is not where people fetch this package, it is just used to show the package, the package itself is fetched using 'npm install maek-test-npm-package'
