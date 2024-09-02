@@ -1,5 +1,5 @@
 // first 'npm init' and create a package.json where I add "type":"module" and in the creation progress I also added the github repository I will be using... good for later? (https://github.com/maek95/maek-test-npm-package)
-// also did 'git init' but that doesnt do much yet I think
+// also did 'git init', not needed but I will later publish these files just to show what the package contains. The actualy package is published using npm and not git
 // Then created this index.js file ofcourse
 // Thereafter I ran 'npm link', making it accessible LOCALLY so I can test it another project (I made one locally in another folder and named it test-package... and ran the command to link it locally: npm link maek-test-npm-package).
 
